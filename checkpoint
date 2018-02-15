@@ -1,0 +1,6 @@
+model_checkpoint_path: "vggnet"
+all_model_checkpoint_paths: "Saved_Models/lenet"
+all_model_checkpoint_paths: "Saved_Models/vggnet"
+all_model_checkpoint_paths: "Saved_Models/lenet"
+all_model_checkpoint_paths: "lenet"
+all_model_checkpoint_paths: "vggnet"
